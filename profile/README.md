@@ -8,6 +8,6 @@
 <h3 align="center">Security Mountain</h3>
 
   <p align="center">
-    A project to help individuals and businesses increase their cyber security step-by-step.   
+    A project to help individuals and businesses increase their online security posture, step-by-step.   
   </p>
 </div>
